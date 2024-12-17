@@ -1,5 +1,5 @@
 # Konfig
-
+https://dylanhuang.com/blog/closing-my-startup/
 The monorepo that holds everything...
 ## Getting started
 
